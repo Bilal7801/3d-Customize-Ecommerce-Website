@@ -1,0 +1,8 @@
+# Ignore heavy folders in subdirectories
+frontend/node_modules/
+backend/vendor/
+backend/.env
+frontend/.env
+
+# Ignore any leftover git data
+**/.git
